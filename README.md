@@ -8,3 +8,5 @@ Like its predecessor, TinyGPS, this library provides compact and easy-to-use met
 However, TinyGPSPlus’s programmer interface is considerably simpler to use than TinyGPS, and the new library can extract arbitrary data from any of the myriad NMEA sentences out there, even proprietary ones.
 
 See [Arduiniana - TinyGPSPlus](http://arduiniana.org/libraries/tinygpsplus/) for more detailed information on how to use TinyGPSPlus
+
+![GPS_data_Simulasi](https://user-images.githubusercontent.com/34183569/157169483-5a675470-fd15-4157-b3d2-0022e3b80776.png)
